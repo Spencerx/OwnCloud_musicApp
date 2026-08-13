@@ -1,6 +1,7 @@
 ## [Unreleased]
 
 ### Fixed
+- Vulnerability [GHSA-7xgc-f6j5-h394](https://github.com/nc-music/oc-music/security/advisories/GHSA-7xgc-f6j5-h394)
 - Negative offset being ignored when showing time-synced lyrics
 - Empty lines being hidden when viewing time-synced lyrics
 - Alphabet navigation working wrong in the Internet radio view when some station is unnamed (such stations are now listed as last)
