@@ -1,4 +1,4 @@
-## [Unreleased]
+## 2.6.1 - 2026-08-30
 
 ### Fixed
 - Vulnerability [GHSA-7xgc-f6j5-h394](https://github.com/nc-music/oc-music/security/advisories/GHSA-7xgc-f6j5-h394)
